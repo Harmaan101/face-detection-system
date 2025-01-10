@@ -1,11 +1,5 @@
-# facial_recognition
+# facial_recognitio
 
-ChatGPT 4o mini
-
-Log in
-
-Sign up
-You said:
 How to make a face detection system using pycharm step by step for beginners 
 ChatGPT said:
 ChatGPT
